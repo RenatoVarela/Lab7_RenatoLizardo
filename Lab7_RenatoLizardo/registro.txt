@@ -1,0 +1,9 @@
+Nacion: Fuego
+Nombre: ZUko
+Edad: 113
+Genero: MAsculino
+Nombre poder fuego
+victorias: 90
+Cicatrices: 1
+---------------------------------------------
+---
